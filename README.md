@@ -24,6 +24,8 @@ View All At Once [here](https://github.com/ceadoor?utf8=%E2%9C%93&q=lab&type=&la
 
 ## [→ S5 System-Software-lab](https://github.com/ceadoor/System-Software-lab)
 
+## [→ S5 Application-Software-lab](https://github.com/ceadoor/Application-Software-lab)
+
 ## [→ S6 Computer-Networks-lab](https://github.com/ceadoor/Computer-Networks-lab)
 
 ## [→ S6 Network-Programming-lab](https://github.com/ceadoor/Network-Programming-lab)
