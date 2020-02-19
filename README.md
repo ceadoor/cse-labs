@@ -26,9 +26,9 @@ View All At Once [here](https://github.com/ceadoor?utf8=%E2%9C%93&q=lab&type=&la
 
 ## [→ S5 Application-Software-lab](https://github.com/ceadoor/Application-Software-lab)
 
-## [→ S6 Computer-Networks-lab](https://github.com/ceadoor/Computer-Networks-lab)
+## [→ S6 Computer-Networks-lab(2019)](https://github.com/ceadoor/Computer-Networks-lab-2019)
 
-## [→ S6 Computer-Networks-lab(2020)](https://github.com/najafmohammed/c-programs)
+## [→ S6 Computer-Networks-lab(2020)](https://github.com/ceadoor/Computer-Networks-lab)
 
 ## [→ S6 Network-Programming-lab](https://github.com/ceadoor/Network-Programming-lab)
 
